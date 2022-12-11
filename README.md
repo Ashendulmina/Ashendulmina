@@ -1,6 +1,6 @@
 <h1>Hi I'm Ashen</h1>
 
-###Hello, I am a student. I love coding. learning Javascript and React
+### Hello, I am a student. I love coding. learning Javascript and React
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Ashendulmina"/>
@@ -27,4 +27,4 @@
 <li>CSS</li>
 <li>3D Desinging</li>
 <br>
-####EnD
+#### EnD
